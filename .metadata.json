@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "metacoder",
-    "oncran": true
-  },
-  {
     "package": "poppr",
     "oncran": true
   }

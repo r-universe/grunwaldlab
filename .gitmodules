@@ -8,11 +8,6 @@
 	url = https://github.com/grunwaldlab/ezec
 	shallow = true
 	registered = true
-[submodule "metacoder"]
-	path = metacoder
-	url = https://github.com/grunwaldlab/metacoder
-	shallow = true
-	registered = true
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
