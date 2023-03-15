@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "poppr",
+    "package": "metacoder",
     "oncran": true
   },
   {
-    "package": "metacoder",
+    "package": "poppr",
     "oncran": true
   }
 ]
