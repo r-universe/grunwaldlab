@@ -8,9 +8,6 @@
 [submodule "ezec"]
 	path = ezec
 	url = https://github.com/grunwaldlab/ezec
-[submodule "metacoder"]
-	path = metacoder
-	url = https://github.com/grunwaldlab/metacoder
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
