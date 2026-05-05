@@ -8,6 +8,9 @@
 [submodule "ezec"]
 	path = ezec
 	url = https://github.com/grunwaldlab/ezec
+[submodule "heattree"]
+	path = heattree
+	url = https://github.com/grunwaldlab/heattree
 [submodule "metacoder"]
 	path = metacoder
 	url = https://github.com/grunwaldlab/metacoder
